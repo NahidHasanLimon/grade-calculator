@@ -1,6 +1,6 @@
 <?php 
 
-namespace NahidHasanLimon\CGPACalculator;
+namespace NahidHasanLimon\GradeCalculator;
 
 class Calculator
 {
@@ -29,7 +29,7 @@ class Calculator
             return "Wrong Input";
         }
         else{
-            return "Please Check your input number";
+            return "Please Check your input number! Something Went Wrong!";
         }
     }
 }
