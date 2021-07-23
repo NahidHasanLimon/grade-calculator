@@ -1,0 +1,17 @@
+{
+    "name": "nahidhasanlimon/grade-calculator",
+    "description": "A simple grade calculator composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md. Nahid Hasan Limon",
+            "email": "nh.limon2010@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"NahidHasanLimon\\GradeCalculator\\": "src/"}
+    },
+    "require": {}
+}
